@@ -2,5 +2,6 @@
     "enabled": true,
     "version": "1.0.0",
     "betaVersion": true,
-    "stable": false 
+    "stable": false,
+    "message": "beta version is enabled and any feedback would be appreciated"
 }
