@@ -1,7 +1,7 @@
 {
-    "enabled": false,
+    "enabled": true,
     "version": "1.0.0",
     "betaVersion": true,
     "stable": false,
-    "message": "beta version is no longer active, please download the release version"
+    "message": "Beta version is now enabled, please provide any valuable insights, to make this better"
 }
